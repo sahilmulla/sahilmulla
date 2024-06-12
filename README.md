@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Sahil Mulla
-- 🌱 I’m currently learning **Remix**, Next.js, React.
-- 💞️ I’m looking to collaborate on any _SAAS_ product/application.
-- 📫 How to reach me: 📨 i.sahil.mulla@gmail.com
+# 👋 Hi, I’m Sahil!
+- 💼 Wokring on `Vue` <> `.NET` <> `SQL` stack
+- ⭐ Learning **Remix**, _excited for ~Remix v3~ React Router v7_
+- 💞️ I love tinkering, especially in React 💙
+- 📫 Reach out to me @ i.sahil.mulla@gmail.com
 
-<!---
-sahilmulla/sahilmulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.    
---->
+## 🛠️ My works
+- **[Selfless Sewa](https://www.selflesssewango.com)** `Next.js` `Contentful` `Framer Motion` `TailwindCSS`
