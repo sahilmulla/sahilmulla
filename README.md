@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sahil!
+# 👋 Hi, Sahil here!
 - 💼 Wokring on `Vue` <> `.NET` <> `SQL` stack
 - ⭐ Learning **Remix**, _excited for ~Remix v3~ React Router v7_
 - 💞️ I love tinkering, especially in React 💙
