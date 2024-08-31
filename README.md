@@ -1,7 +1,6 @@
 # 👋 Hi, Sahil here!
 - 💼 Wokring on `Vue` <> `.NET` <> `SQL` stack
-- ⭐ Learning **Remix**, _excited for ~Remix v3~ React Router v7_
-- 💞️ I love tinkering, especially in React 💙
+- <img src="https://github.com/user-attachments/assets/bc0ac63a-982e-4b6c-a6fc-4085eee70024" alt="gopher" style="width:1em;"/>&nbsp; Tinkering in go
 - 📫 Reach out to me @ i.sahil.mulla@gmail.com
 
 ## 🛠️ My works
